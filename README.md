@@ -1,4 +1,4 @@
-# Password Manager Project
+# Password Manager
 ## Main features
 - Create and delete users
 - Generate passwords
